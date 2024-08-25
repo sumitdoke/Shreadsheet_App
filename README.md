@@ -21,6 +21,13 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
 - **Language**: TypeScript
 - **Testing**: [Jest](https://jestjs.io/), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
+## **Live Demo**
+
+Check out the live demo of the application hosted on Vercel:
+
+[**Live Demo**](https://your-vercel-app-url.vercel.app)
+
+
 ## **Setup Instructions**
 
 ### **Prerequisites**
