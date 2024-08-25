@@ -1,3 +1,6 @@
+Certainly! Here’s the README content with all commands formatted in the `bash` block for consistency:
+
+```markdown
 # **Spreadsheet App**
 
 A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, and **Zustand** for state management. This project demonstrates advanced frontend development skills, including state management, responsive design, and UI/UX best practices.
@@ -5,13 +8,13 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
 ## **Features**
 
 - **Grid Rendering**: A grid of 1000 editable cells.
-- **Cell Editing**: Cells can be edited with dynamic content updates.
-- **Cell Formatting**: Options for text alignment and font size.
-- **Data Validation**: Basic validation rules for certain cells.
-- **Search and Filter**: Easily locate specific data within the grid.
-- **Pagination/Infinite Scrolling**: Efficient handling of large datasets.
-- **Undo/Redo**: Revert changes made to the cells.
-- **Responsive Design**: Fully responsive and functional across different devices.
+- **Cell Editing**: Edit cells with dynamic content updates.
+- **Cell Formatting**: Customize text alignment and font size.
+- **Data Validation**: Apply basic validation rules to certain cells.
+- **Search and Filter**: Locate specific data within the grid easily.
+- **Pagination/Infinite Scrolling**: Handle large datasets efficiently.
+- **Undo/Redo**: Revert or redo changes made to the cells.
+- **Responsive Design**: Fully functional across different devices.
 
 ## **Technologies Used**
 
@@ -30,42 +33,40 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
 
 ### **Installation**
 
-1. **Clone the repository** (if available) or create the project from scratch.
+1. **Clone the repository**:
 
-   
-```bash
+   ```bash
    git clone https://github.com/your-username/spreadsheet-app.git
    cd spreadsheet-app
-  
+   ```
 
 2. **Install dependencies**:
 
-```bash
-   npm install
-
-```bash
-   Using yarn:
-
-   
-```bash
-   yarn install
-  
-
-3. **Run the development server**:
-```bash
    Using npm:
 
-   
-```bash
-   npm run dev
-  
-```bash
+   ```bash
+   npm install
+   ```
+
    Using yarn:
 
-   
-```bash
+   ```bash
+   yarn install
+   ```
+
+3. **Run the development server**:
+
+   Using npm:
+
+   ```bash
+   npm run dev
+   ```
+
+   Using yarn:
+
+   ```bash
    yarn dev
-  
+   ```
 
    Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
 
@@ -73,41 +74,40 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
 
 1. **Build the application**:
 
-   
-```bash
+   ```bash
    npm run build
-  
+   ```
 
 2. **Start the production server**:
 
-   
-```bash
-Edit Cells 
+   ```bash
+   npm start
+   ```
 
 3. **Deploy to Vercel** (optional):
 
-   
-```bash
+   ```bash
    npm install -g vercel
    vercel
-  
+   ```
 
 ## **Usage Instructions**
 
-1. **Edit Cells**: Double-click any cell in the grid to edit its content. Press "Enter" to save or click outside the cell.
+1. **Edit Cells**: Double-click any cell in the grid to edit its content. Press "Enter" to save changes or click outside the cell.
 2. **Cell Formatting**: Use the toolbar (if implemented) to adjust text alignment and font size.
 3. **Search and Filter**: Enter text in the search bar to filter the grid content.
 4. **Undo/Redo**: Use "Ctrl+Z" to undo and "Ctrl+Y" to redo changes.
-5. **Pagination/Scrolling**: Navigate through large datasets with pagination controls or infinite scrolling.
+5. **Pagination/Scrolling**: Navigate through large datasets using pagination controls or infinite scrolling.
 
 ## **Testing**
 
 ### **Run Tests**
 
-To run tests, use the following command:
+To run tests, use:
 
 ```bash
 npm run test
+```
 
 ### **Test Structure**
 
@@ -122,25 +122,25 @@ This application can be deployed to platforms like Vercel, Netlify, or any hosti
 
 1. **Install Vercel CLI**:
 
-   
-```bash
+   ```bash
    npm install -g vercel
-  
+   ```
 
 2. **Deploy the application**:
 
-   
-```bash
+   ```bash
    vercel
-  
+   ```
 
 3. Follow the prompts to configure and deploy your application. After deployment, Vercel will provide a live URL for your app.
 
-## Contributing
+## **Contributing**
 
 If you’d like to contribute to this project, feel free to submit a pull request or report issues. Contributions are welcome!
 
-## License
+## **License**
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-`
+```
+
+In this version, all commands are consistently formatted as `bash` code blocks. If you need further adjustments or additions, just let me know!
