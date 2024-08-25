@@ -1,6 +1,3 @@
-Certainly! Here’s the README content with all commands formatted in the `bash` block for consistency:
-
-```markdown
 # **Spreadsheet App**
 
 A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, and **Zustand** for state management. This project demonstrates advanced frontend development skills, including state management, responsive design, and UI/UX best practices.
