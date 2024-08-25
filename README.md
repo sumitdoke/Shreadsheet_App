@@ -40,12 +40,8 @@ bash
 
 2. **Install dependencies**:
 
-   Using npm:
-
-   
-bash
    npm install
-  
+
 
    Using yarn:
 
