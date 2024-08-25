@@ -33,7 +33,7 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
 1. **Clone the repository** (if available) or create the project from scratch.
 
    
-bash
+```bash
    git clone https://github.com/your-username/spreadsheet-app.git
    cd spreadsheet-app
   
