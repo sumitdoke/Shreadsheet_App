@@ -35,34 +35,35 @@ A web-based spreadsheet application built with **Next.js**, **Tailwind CSS**, an
    
 ```bash
    git clone https://github.com/your-username/spreadsheet-app.git
-   cd spreadsheet-app ```
+   cd spreadsheet-app
   
 
 2. **Install dependencies**:
 
+```bash
    npm install
 
-
+```bash
    Using yarn:
 
    
-bash
+```bash
    yarn install
   
 
 3. **Run the development server**:
-
+```bash
    Using npm:
 
    
-bash
+```bash
    npm run dev
   
-
+```bash
    Using yarn:
 
    
-bash
+```bash
    yarn dev
   
 
@@ -73,20 +74,20 @@ bash
 1. **Build the application**:
 
    
-bash
+```bash
    npm run build
   
 
 2. **Start the production server**:
 
    
-bash
+```bash
 Edit Cells 
 
 3. **Deploy to Vercel** (optional):
 
    
-bash
+```bash
    npm install -g vercel
    vercel
   
@@ -105,7 +106,7 @@ bash
 
 To run tests, use the following command:
 
-bash
+```bash
 npm run test
 
 ### **Test Structure**
@@ -122,14 +123,14 @@ This application can be deployed to platforms like Vercel, Netlify, or any hosti
 1. **Install Vercel CLI**:
 
    
-bash
+```bash
    npm install -g vercel
   
 
 2. **Deploy the application**:
 
    
-bash
+```bash
    vercel
   
 
