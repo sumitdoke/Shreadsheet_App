@@ -138,6 +138,3 @@ If you’d like to contribute to this project, feel free to submit a pull reques
 ## **License**
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
-
-In this version, all commands are consistently formatted as `bash` code blocks. If you need further adjustments or additions, just let me know!
